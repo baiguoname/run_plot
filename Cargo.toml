@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "plotters/plotters", 
+    "plotters/plotters-backend", 
+    "plotters/plotters-bitmap", 
+    "plotters/plotters-svg",
+    "plotters-iced",
+    "run_plot",
+]

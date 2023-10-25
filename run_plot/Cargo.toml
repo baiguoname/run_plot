@@ -1,0 +1,16 @@
+[package]
+name = "run-plot"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotters-iced = { path = "../plotters-iced" }
+plotters = { path = "../plotters/plotters", default_features = true, features = ["evcxr", "all_series", "all_elements"] }
+plotters-backend = { path = "../plotters/plotters-backend" }
+iced_widget = { version = "0.1", features = ["canvas"] }
+iced_graphics = "0.9"
+once_cell = "1"
+iced = { version = "0.10", features = ["canvas", "tokio"] }
+chrono = { version = "0.4" }

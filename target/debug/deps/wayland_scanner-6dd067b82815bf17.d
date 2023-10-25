@@ -1,0 +1,14 @@
+/root/run_plot/target/debug/deps/libwayland_scanner-6dd067b82815bf17.so: /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/lib.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/c_interfaces.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/client_gen.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/common.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/interfaces.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/parse.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/protocol.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/server_gen.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/token.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/util.rs
+
+/root/run_plot/target/debug/deps/wayland_scanner-6dd067b82815bf17.d: /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/lib.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/c_interfaces.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/client_gen.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/common.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/interfaces.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/parse.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/protocol.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/server_gen.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/token.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/util.rs
+
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/lib.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/c_interfaces.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/client_gen.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/common.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/interfaces.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/parse.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/protocol.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/server_gen.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/token.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/wayland-scanner-0.30.1/src/util.rs:

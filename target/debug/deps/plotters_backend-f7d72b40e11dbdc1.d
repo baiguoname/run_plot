@@ -1,0 +1,13 @@
+/root/run_plot/target/debug/deps/plotters_backend-f7d72b40e11dbdc1.rmeta: /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/lib.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/mod.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/line.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/rect.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/circle.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/polygon.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/path.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/style.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/text.rs
+
+/root/run_plot/target/debug/deps/plotters_backend-f7d72b40e11dbdc1.d: /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/lib.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/mod.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/line.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/rect.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/circle.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/polygon.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/path.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/style.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/text.rs
+
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/lib.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/mod.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/line.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/rect.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/circle.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/polygon.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/rasterizer/path.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/style.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/plotters-backend-0.3.5/src/text.rs:

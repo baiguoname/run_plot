@@ -1,0 +1,16 @@
+/root/run_plot/target/debug/deps/ab_glyph-c849bb9ee85e85b9.rmeta: /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/lib.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/codepoint_ids.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/err.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/font.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/font_arc.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/glyph.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/outlined.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/scale.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp/outliner.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp/variable.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/variable.rs
+
+/root/run_plot/target/debug/deps/ab_glyph-c849bb9ee85e85b9.d: /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/lib.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/codepoint_ids.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/err.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/font.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/font_arc.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/glyph.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/outlined.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/scale.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp/outliner.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp/variable.rs /root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/variable.rs
+
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/lib.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/codepoint_ids.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/err.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/font.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/font_arc.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/glyph.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/outlined.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/scale.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp/outliner.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/ttfp/variable.rs:
+/root/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/ab_glyph-0.2.22/src/variable.rs:
